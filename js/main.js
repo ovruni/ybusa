@@ -95,7 +95,7 @@ function loadMap(items) {
     });
 
     var secondIcon = new L.icon({
-        iconUrl: 'images/strive_together_icon',
+        iconUrl: 'images/strive_together_icon.png',
         iconSize: [35, 35],
     })
 
