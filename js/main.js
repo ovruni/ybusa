@@ -143,6 +143,8 @@ function loadMap(items) {
                                     '<div>' + properties[0] + '<br><br></div>' +
                                     '<div><b>Program Name</b></div>' +
                                     '<div>' + properties[1] + '<br><br></div>' +
+                                    '<div><b>Street Address</b></div>' +
+                                    '<div>' + properties[2] + '<br><br></div>' +
                                     '<div><b>City</b></div>' +
                                     '<div>' + properties[3] + '<br><br></div>' +
                                     '<div><b>State</b></div>' +
